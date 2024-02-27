@@ -1,0 +1,27 @@
+.header{
+   
+   
+   }
+
+  .parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+   .container{
+    margin: 0 90px;
+    padding: 0 90px;
+   
+   }
+   
+   .header_right_btn{
+   padding: 12px;
+     background-color:#ffbc0d;
+     border: none;
+     border-radius: 5px;
+   display: inline-block;
+   width: 150px;
+   margin-bottom: 80px;
+   
+   }
